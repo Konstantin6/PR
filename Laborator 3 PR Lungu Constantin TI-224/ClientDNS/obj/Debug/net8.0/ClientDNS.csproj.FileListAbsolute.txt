@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ClientDNS\bin\Debug\net8.0\ClientDNS.exe
+C:\Users\User\Desktop\ClientDNS\bin\Debug\net8.0\ClientDNS.deps.json
+C:\Users\User\Desktop\ClientDNS\bin\Debug\net8.0\ClientDNS.runtimeconfig.json
+C:\Users\User\Desktop\ClientDNS\bin\Debug\net8.0\ClientDNS.dll
+C:\Users\User\Desktop\ClientDNS\bin\Debug\net8.0\ClientDNS.pdb
+C:\Users\User\Desktop\ClientDNS\obj\Debug\net8.0\ClientDNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ClientDNS\obj\Debug\net8.0\ClientDNS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ClientDNS\obj\Debug\net8.0\ClientDNS.AssemblyInfo.cs
+C:\Users\User\Desktop\ClientDNS\obj\Debug\net8.0\ClientDNS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ClientDNS\obj\Debug\net8.0\ClientDNS.dll
+C:\Users\User\Desktop\ClientDNS\obj\Debug\net8.0\refint\ClientDNS.dll
+C:\Users\User\Desktop\ClientDNS\obj\Debug\net8.0\ClientDNS.pdb
+C:\Users\User\Desktop\ClientDNS\obj\Debug\net8.0\ClientDNS.genruntimeconfig.cache
+C:\Users\User\Desktop\ClientDNS\obj\Debug\net8.0\ref\ClientDNS.dll

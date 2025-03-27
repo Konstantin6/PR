@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Chat UDP\bin\Debug\net8.0\Chat UDP.exe
+C:\Users\User\Desktop\Chat UDP\bin\Debug\net8.0\Chat UDP.deps.json
+C:\Users\User\Desktop\Chat UDP\bin\Debug\net8.0\Chat UDP.runtimeconfig.json
+C:\Users\User\Desktop\Chat UDP\bin\Debug\net8.0\Chat UDP.dll
+C:\Users\User\Desktop\Chat UDP\bin\Debug\net8.0\Chat UDP.pdb
+C:\Users\User\Desktop\Chat UDP\obj\Debug\net8.0\Chat UDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Chat UDP\obj\Debug\net8.0\Chat UDP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Chat UDP\obj\Debug\net8.0\Chat UDP.AssemblyInfo.cs
+C:\Users\User\Desktop\Chat UDP\obj\Debug\net8.0\Chat UDP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Chat UDP\obj\Debug\net8.0\Chat UDP.dll
+C:\Users\User\Desktop\Chat UDP\obj\Debug\net8.0\refint\Chat UDP.dll
+C:\Users\User\Desktop\Chat UDP\obj\Debug\net8.0\Chat UDP.pdb
+C:\Users\User\Desktop\Chat UDP\obj\Debug\net8.0\Chat UDP.genruntimeconfig.cache
+C:\Users\User\Desktop\Chat UDP\obj\Debug\net8.0\ref\Chat UDP.dll
